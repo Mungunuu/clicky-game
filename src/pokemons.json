@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Pikachu",
+    "image": "https://static.giantbomb.com/uploads/scale_small/0/6087/2437349-pikachu.png"
+  },
+  {
+    "id": 2,
+    "name": "Charizard",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891763-006charizard.png"
+  },
+  {
+    "id": 3,
+    "name": "Mewtwo",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1895869-150mewtwo.png"
+  },
+  {
+    "id": 4,
+    "name": "Blastoise",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891810-009blastoise.png"
+  },
+  {
+    "id": 5,
+    "name": "Gengar",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891841-094gengar.png"
+  },
+  {
+    "id": 6,
+    "name": "Venusaur",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891760-003venusaur.png"
+  },
+  {
+    "id": 7,
+    "name": "Butterfree",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1892298-012butterfree.png"
+  },
+  {
+    "id": 8,
+    "name": "Beedrill",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891819-015beedrill.png"
+  },
+  {
+    "id": 9,
+    "name": "Fearow",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1898247-022fearow.png"
+  },
+  {
+    "id": 10,
+    "name": "Arbok",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1895870-024arbok.png"
+  },
+  {
+    "id": 11,
+    "name": "Arcanine",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891828-059arcanine.png"
+  },
+  {
+    "id": 12,
+    "name": "Alakazam",
+    "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/1891836-065alakazam.png"
+  }
+]

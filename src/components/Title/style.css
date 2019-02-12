@@ -1,0 +1,13 @@
+.title {
+  width: 100%;
+  background-color: gold;
+  padding: 10px 10px
+}
+.header-score {
+  text-align: center;
+  font-size: 35px;
+}
+.header-ins {
+  text-align: center;
+  font-size: 20px
+}
